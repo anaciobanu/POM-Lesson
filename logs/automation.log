@@ -1,0 +1,387 @@
+05/16/2022 02:17:17 PM Opening firefox browser
+05/16/2022 02:17:18 PM Navigating to https://www.saucedemo.com/
+05/16/2022 02:17:18 PM ****Test case: Validating Login Page Title
+05/16/2022 02:17:18 PM Taking a screenshot .\screenshots\image-051622-141718.png
+05/16/2022 02:17:18 PM Closing the browser
+05/16/2022 02:17:27 PM Opening firefox browser
+05/16/2022 02:17:28 PM Navigating to https://www.saucedemo.com/
+05/16/2022 02:17:29 PM ****Test case: Validating Login Process
+05/16/2022 02:17:29 PM Login successfull
+05/16/2022 02:17:29 PM Taking a screenshot .\screenshots\image-051622-141729.png
+05/16/2022 02:17:29 PM Closing the browser
+05/17/2022 08:00:19 PM Opening firefox browser
+05/17/2022 08:00:21 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:00:21 PM ********** Test Case: View Product Details
+05/17/2022 08:00:21 PM Taking a screenshot .\screenshots\image-051722-200021.png
+05/17/2022 08:00:21 PM Closing the browser
+05/17/2022 08:00:32 PM Opening firefox browser
+05/17/2022 08:00:33 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:00:33 PM ****Test case: Validating Login Page Title
+05/17/2022 08:00:33 PM Taking a screenshot .\screenshots\image-051722-200033.png
+05/17/2022 08:00:33 PM Closing the browser
+05/17/2022 08:00:41 PM Opening firefox browser
+05/17/2022 08:00:42 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:00:44 PM ****Test case: Validating Login Process
+05/17/2022 08:00:44 PM Login successfull
+05/17/2022 08:00:44 PM Taking a screenshot .\screenshots\image-051722-200044.png
+05/17/2022 08:00:44 PM Closing the browser
+05/17/2022 08:01:10 PM Opening firefox browser
+05/17/2022 08:01:11 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:01:11 PM ********** Test Case: Go back to Products from Product Details
+05/17/2022 08:01:12 PM Taking a screenshot .\screenshots\image-051722-200112.png
+05/17/2022 08:01:12 PM Closing the browser
+05/17/2022 08:01:20 PM Opening firefox browser
+05/17/2022 08:01:21 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:01:21 PM ********** Test Case: Add to Cart
+05/17/2022 08:01:21 PM Taking a screenshot .\screenshots\image-051722-200121.png
+05/17/2022 08:01:21 PM Closing the browser
+05/17/2022 08:01:30 PM Opening firefox browser
+05/17/2022 08:01:31 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:01:31 PM ********** Test Case: View Product Details
+05/17/2022 08:01:32 PM Taking a screenshot .\screenshots\image-051722-200131.png
+05/17/2022 08:01:32 PM Closing the browser
+05/17/2022 08:01:41 PM Opening firefox browser
+05/17/2022 08:01:42 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:01:42 PM ****Test case: Validating Login Page Title
+05/17/2022 08:01:42 PM Taking a screenshot .\screenshots\image-051722-200142.png
+05/17/2022 08:01:42 PM Closing the browser
+05/17/2022 08:01:52 PM Opening firefox browser
+05/17/2022 08:01:53 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:01:54 PM ****Test case: Validating Login Process
+05/17/2022 08:01:54 PM Login successfull
+05/17/2022 08:01:55 PM Taking a screenshot .\screenshots\image-051722-200154.png
+05/17/2022 08:01:55 PM Closing the browser
+05/17/2022 08:06:37 PM Opening firefox browser
+05/17/2022 08:06:38 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:06:38 PM ********** Test Case: Go back to Products from Product Details
+05/17/2022 08:06:38 PM Taking a screenshot .\screenshots\image-051722-200638.png
+05/17/2022 08:06:38 PM Closing the browser
+05/17/2022 08:06:47 PM Opening firefox browser
+05/17/2022 08:06:48 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:06:48 PM ********** Test Case: Add to Cart
+05/17/2022 08:06:48 PM Taking a screenshot .\screenshots\image-051722-200648.png
+05/17/2022 08:06:48 PM Closing the browser
+05/17/2022 08:06:56 PM Opening firefox browser
+05/17/2022 08:06:57 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:06:57 PM ********** Test Case: View Product Details
+05/17/2022 08:06:57 PM Taking a screenshot .\screenshots\image-051722-200657.png
+05/17/2022 08:06:57 PM Closing the browser
+05/17/2022 08:07:05 PM Opening firefox browser
+05/17/2022 08:07:06 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:07:06 PM ****Test case: Validating Login Page Title
+05/17/2022 08:07:07 PM Taking a screenshot .\screenshots\image-051722-200706.png
+05/17/2022 08:07:07 PM Closing the browser
+05/17/2022 08:07:15 PM Opening firefox browser
+05/17/2022 08:07:16 PM Navigating to https://www.saucedemo.com/
+05/17/2022 08:07:17 PM ****Test case: Validating Login Process
+05/17/2022 08:07:17 PM Login successfull
+05/17/2022 08:07:18 PM Taking a screenshot .\screenshots\image-051722-200717.png
+05/17/2022 08:07:18 PM Closing the browser
+05/17/2022 10:56:42 PM Opening firefox browser
+05/17/2022 10:56:43 PM Navigating to https://www.saucedemo.com/
+05/17/2022 10:56:43 PM ********** Test Case: Go back to Products from Product Details
+05/17/2022 10:56:44 PM Taking a screenshot .\screenshots\image-051722-225643.png
+05/17/2022 10:56:44 PM Closing the browser
+05/17/2022 10:56:51 PM Opening firefox browser
+05/17/2022 10:56:53 PM Navigating to https://www.saucedemo.com/
+05/17/2022 10:56:53 PM ********** Test Case: Add to Cart
+05/17/2022 10:56:53 PM Taking a screenshot .\screenshots\image-051722-225653.png
+05/17/2022 10:56:53 PM Closing the browser
+05/17/2022 10:57:03 PM Opening firefox browser
+05/17/2022 10:57:04 PM Navigating to https://www.saucedemo.com/
+05/17/2022 10:57:04 PM ********** Test Case: View Product Details
+05/17/2022 10:57:04 PM Taking a screenshot .\screenshots\image-051722-225704.png
+05/17/2022 10:57:04 PM Closing the browser
+05/17/2022 10:57:13 PM Opening firefox browser
+05/17/2022 10:57:15 PM Navigating to https://www.saucedemo.com/
+05/17/2022 10:57:15 PM ****Test case: Validating Login Page Title
+05/17/2022 10:57:16 PM Taking a screenshot .\screenshots\image-051722-225715.png
+05/17/2022 10:57:16 PM Closing the browser
+05/17/2022 10:57:24 PM Opening firefox browser
+05/17/2022 10:57:25 PM Navigating to https://www.saucedemo.com/
+05/17/2022 10:57:27 PM ****Test case: Validating Login Process
+05/17/2022 10:57:27 PM Login successfull
+05/17/2022 10:57:27 PM Taking a screenshot .\screenshots\image-051722-225727.png
+05/17/2022 10:57:27 PM Closing the browser
+05/18/2022 12:08:58 AM Opening firefox browser
+05/18/2022 12:08:59 AM Navigating to https://www.saucedemo.com/
+05/18/2022 12:08:59 AM ********** Test Case: Go back to Products from Product Details
+05/18/2022 12:08:59 AM Taking a screenshot .\screenshots\image-051822-000859.png
+05/18/2022 12:08:59 AM Closing the browser
+05/18/2022 12:09:07 AM Opening firefox browser
+05/18/2022 12:09:08 AM Navigating to https://www.saucedemo.com/
+05/18/2022 12:09:08 AM ********** Test Case: Add to Cart
+05/18/2022 12:09:08 AM Taking a screenshot .\screenshots\image-051822-000908.png
+05/18/2022 12:09:08 AM Closing the browser
+05/18/2022 12:09:16 AM Opening firefox browser
+05/18/2022 12:09:17 AM Navigating to https://www.saucedemo.com/
+05/18/2022 12:09:17 AM ********** Test Case: View Product Details
+05/18/2022 12:09:17 AM Taking a screenshot .\screenshots\image-051822-000917.png
+05/18/2022 12:09:17 AM Closing the browser
+05/18/2022 12:09:26 AM Opening firefox browser
+05/18/2022 12:09:28 AM Navigating to https://www.saucedemo.com/
+05/18/2022 12:09:28 AM ****Test case: Validating Login Page Title
+05/18/2022 12:09:28 AM Taking a screenshot .\screenshots\image-051822-000928.png
+05/18/2022 12:09:28 AM Closing the browser
+05/18/2022 12:09:37 AM Opening firefox browser
+05/18/2022 12:09:37 AM Navigating to https://www.saucedemo.com/
+05/18/2022 12:09:39 AM ****Test case: Validating Login Process
+05/18/2022 12:09:39 AM Login successfull
+05/18/2022 12:09:40 AM Taking a screenshot .\screenshots\image-051822-000939.png
+05/18/2022 12:09:40 AM Closing the browser
+05/18/2022 10:29:00 PM Opening firefox browser
+05/18/2022 10:29:01 PM Navigating to https://www.saucedemo.com/
+05/18/2022 10:29:01 PM ********** Test Case: Go back to Products from Product Details
+05/18/2022 10:29:02 PM Taking a screenshot .\screenshots\image-051822-222901.png
+05/18/2022 10:29:02 PM Closing the browser
+05/18/2022 10:29:10 PM Opening firefox browser
+05/18/2022 10:29:11 PM Navigating to https://www.saucedemo.com/
+05/18/2022 10:29:11 PM ********** Test Case: Add to Cart
+05/18/2022 10:29:11 PM Taking a screenshot .\screenshots\image-051822-222911.png
+05/18/2022 10:29:11 PM Closing the browser
+05/18/2022 10:29:19 PM Opening firefox browser
+05/18/2022 10:29:20 PM Navigating to https://www.saucedemo.com/
+05/18/2022 10:29:20 PM ********** Test Case: View Product Details
+05/18/2022 10:29:20 PM Taking a screenshot .\screenshots\image-051822-222920.png
+05/18/2022 10:29:20 PM Closing the browser
+05/18/2022 10:29:30 PM Opening firefox browser
+05/18/2022 10:29:31 PM Navigating to https://www.saucedemo.com/
+05/18/2022 10:29:31 PM ****Test case: Validating Login Page Title
+05/18/2022 10:29:31 PM Taking a screenshot .\screenshots\image-051822-222931.png
+05/18/2022 10:29:31 PM Closing the browser
+05/18/2022 10:29:39 PM Opening firefox browser
+05/18/2022 10:29:40 PM Navigating to https://www.saucedemo.com/
+05/18/2022 10:29:42 PM ****Test case: Validating Login Process
+05/18/2022 10:29:42 PM Login successfull
+05/18/2022 10:29:42 PM Taking a screenshot .\screenshots\image-051822-222942.png
+05/18/2022 10:29:42 PM Closing the browser
+05/18/2022 10:31:26 PM Opening firefox browser
+05/18/2022 10:31:27 PM Navigating to https://www.saucedemo.com/
+05/18/2022 10:31:27 PM ********** Test Case: Go back to Products from Product Details
+05/18/2022 10:31:27 PM Taking a screenshot .\screenshots\image-051822-223127.png
+05/18/2022 10:31:27 PM Closing the browser
+05/18/2022 10:31:35 PM Opening firefox browser
+05/18/2022 10:31:36 PM Navigating to https://www.saucedemo.com/
+05/18/2022 10:31:36 PM ********** Test Case: Add to Cart
+05/18/2022 10:31:36 PM Taking a screenshot .\screenshots\image-051822-223136.png
+05/18/2022 10:31:36 PM Closing the browser
+05/18/2022 10:31:45 PM Opening firefox browser
+05/18/2022 10:31:46 PM Navigating to https://www.saucedemo.com/
+05/18/2022 10:31:46 PM ********** Test Case: View Product Details
+05/18/2022 10:31:46 PM Taking a screenshot .\screenshots\image-051822-223146.png
+05/18/2022 10:31:46 PM Closing the browser
+05/18/2022 10:31:54 PM Opening firefox browser
+05/18/2022 10:31:55 PM Navigating to https://www.saucedemo.com/
+05/18/2022 10:31:55 PM ****Test case: Validating Login Page Title
+05/18/2022 10:31:56 PM Taking a screenshot .\screenshots\image-051822-223155.png
+05/18/2022 10:31:56 PM Closing the browser
+05/18/2022 10:32:05 PM Opening firefox browser
+05/18/2022 10:32:06 PM Navigating to https://www.saucedemo.com/
+05/18/2022 10:32:07 PM ****Test case: Validating Login Process
+05/18/2022 10:32:07 PM Login successfull
+05/18/2022 10:32:08 PM Taking a screenshot .\screenshots\image-051822-223207.png
+05/18/2022 10:32:08 PM Closing the browser
+05/18/2022 11:19:35 PM Opening firefox browser
+05/18/2022 11:19:36 PM Navigating to https://www.saucedemo.com/
+05/18/2022 11:19:36 PM ********** Test Case: Go back to Products from Product Details
+05/18/2022 11:19:36 PM Taking a screenshot .\screenshots\image-051822-231936.png
+05/18/2022 11:19:36 PM Closing the browser
+05/18/2022 11:19:45 PM Opening firefox browser
+05/18/2022 11:19:45 PM Navigating to https://www.saucedemo.com/
+05/18/2022 11:19:45 PM ********** Test Case: Add to Cart
+05/18/2022 11:19:46 PM Taking a screenshot .\screenshots\image-051822-231945.png
+05/18/2022 11:19:46 PM Closing the browser
+05/18/2022 11:19:54 PM Opening firefox browser
+05/18/2022 11:19:55 PM Navigating to https://www.saucedemo.com/
+05/18/2022 11:19:55 PM ********** Test Case: View Product Details
+05/18/2022 11:19:55 PM Taking a screenshot .\screenshots\image-051822-231955.png
+05/18/2022 11:19:55 PM Closing the browser
+05/18/2022 11:20:04 PM Opening firefox browser
+05/18/2022 11:20:05 PM Navigating to https://www.saucedemo.com/
+05/18/2022 11:20:05 PM ****Test case: Validating Login Page Title
+05/18/2022 11:20:06 PM Taking a screenshot .\screenshots\image-051822-232005.png
+05/18/2022 11:20:06 PM Closing the browser
+05/18/2022 11:20:15 PM Opening firefox browser
+05/18/2022 11:20:15 PM Navigating to https://www.saucedemo.com/
+05/18/2022 11:20:17 PM ****Test case: Validating Login Process
+05/18/2022 11:20:17 PM Login successfull
+05/18/2022 11:20:17 PM Taking a screenshot .\screenshots\image-051822-232017.png
+05/18/2022 11:20:17 PM Closing the browser
+05/19/2022 06:36:26 AM Opening firefox browser
+05/19/2022 06:36:27 AM Navigating to https://www.saucedemo.com/
+05/19/2022 06:36:27 AM ********** Test Case: Go back to Products from Product Details
+05/19/2022 06:36:28 AM Taking a screenshot .\screenshots\image-051922-063628.png
+05/19/2022 06:36:28 AM Closing the browser
+05/19/2022 06:36:36 AM Opening firefox browser
+05/19/2022 06:36:36 AM Navigating to https://www.saucedemo.com/
+05/19/2022 06:36:36 AM ********** Test Case: Add to Cart
+05/19/2022 06:36:37 AM Taking a screenshot .\screenshots\image-051922-063636.png
+05/19/2022 06:36:37 AM Closing the browser
+05/19/2022 06:36:45 AM Opening firefox browser
+05/19/2022 06:36:46 AM Navigating to https://www.saucedemo.com/
+05/19/2022 06:36:46 AM ********** Test Case: View Product Details
+05/19/2022 06:36:46 AM Taking a screenshot .\screenshots\image-051922-063646.png
+05/19/2022 06:36:46 AM Closing the browser
+05/19/2022 06:36:56 AM Opening firefox browser
+05/19/2022 06:36:57 AM Navigating to https://www.saucedemo.com/
+05/19/2022 06:36:57 AM ****Test case: Validating Login Page Title
+05/19/2022 06:36:58 AM Taking a screenshot .\screenshots\image-051922-063657.png
+05/19/2022 06:36:58 AM Closing the browser
+05/19/2022 06:37:07 AM Opening firefox browser
+05/19/2022 06:37:08 AM Navigating to https://www.saucedemo.com/
+05/19/2022 06:37:09 AM ****Test case: Validating Login Process
+05/19/2022 06:37:09 AM Login successfull
+05/19/2022 06:37:10 AM Taking a screenshot .\screenshots\image-051922-063709.png
+05/19/2022 06:37:10 AM Closing the browser
+05/19/2022 06:58:16 AM Opening firefox browser
+05/19/2022 06:58:17 AM Navigating to https://www.saucedemo.com/
+05/19/2022 06:58:17 AM ********** Test Case: Go back to Products from Product Details
+05/19/2022 06:58:17 AM Taking a screenshot .\screenshots\image-051922-065817.png
+05/19/2022 06:58:17 AM Closing the browser
+05/19/2022 06:58:26 AM Opening firefox browser
+05/19/2022 06:58:26 AM Navigating to https://www.saucedemo.com/
+05/19/2022 06:58:26 AM ********** Test Case: Add to Cart
+05/19/2022 06:58:27 AM Taking a screenshot .\screenshots\image-051922-065827.png
+05/19/2022 06:58:27 AM Closing the browser
+05/19/2022 06:58:35 AM Opening firefox browser
+05/19/2022 06:58:36 AM Navigating to https://www.saucedemo.com/
+05/19/2022 06:58:36 AM ********** Test Case: View Product Details
+05/19/2022 06:58:36 AM Taking a screenshot .\screenshots\image-051922-065836.png
+05/19/2022 06:58:36 AM Closing the browser
+05/19/2022 06:58:45 AM Opening firefox browser
+05/19/2022 06:58:46 AM Navigating to https://www.saucedemo.com/
+05/19/2022 06:58:46 AM ****Test case: Validating Login Page Title
+05/19/2022 06:58:47 AM Taking a screenshot .\screenshots\image-051922-065846.png
+05/19/2022 06:58:47 AM Closing the browser
+05/19/2022 06:58:56 AM Opening firefox browser
+05/19/2022 06:58:57 AM Navigating to https://www.saucedemo.com/
+05/19/2022 06:58:58 AM ****Test case: Validating Login Process
+05/19/2022 06:58:58 AM Login successfull
+05/19/2022 06:58:59 AM Taking a screenshot .\screenshots\image-051922-065858.png
+05/19/2022 06:58:59 AM Closing the browser
+05/19/2022 04:59:08 PM Opening firefox browser
+05/19/2022 04:59:09 PM Navigating to https://www.saucedemo.com/
+05/19/2022 04:59:09 PM ********** Test Case: Go back to Products from Product Details
+05/19/2022 04:59:10 PM Taking a screenshot .\screenshots\image-051922-165909.png
+05/19/2022 04:59:10 PM Closing the browser
+05/19/2022 04:59:18 PM Opening firefox browser
+05/19/2022 04:59:19 PM Navigating to https://www.saucedemo.com/
+05/19/2022 04:59:19 PM *** Test Case: Choose your product
+05/19/2022 04:59:19 PM Taking a screenshot .\screenshots\image-051922-165919.png
+05/19/2022 04:59:19 PM Closing the browser
+05/19/2022 04:59:27 PM Opening firefox browser
+05/19/2022 04:59:28 PM Navigating to https://www.saucedemo.com/
+05/19/2022 04:59:28 PM ****Test case: Validating Login Page Title
+05/19/2022 04:59:28 PM Taking a screenshot .\screenshots\image-051922-165928.png
+05/19/2022 04:59:28 PM Closing the browser
+05/19/2022 04:59:36 PM Opening firefox browser
+05/19/2022 04:59:37 PM Navigating to https://www.saucedemo.com/
+05/19/2022 04:59:38 PM ****Test case: Validating Login Process
+05/19/2022 04:59:38 PM Login successfull
+05/19/2022 04:59:39 PM Taking a screenshot .\screenshots\image-051922-165938.png
+05/19/2022 04:59:39 PM Closing the browser
+05/19/2022 05:11:41 PM Opening firefox browser
+05/19/2022 05:11:42 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:11:42 PM *** Test Case: Go back to Products
+05/19/2022 05:11:43 PM Taking a screenshot .\screenshots\image-051922-171142.png
+05/19/2022 05:11:43 PM Closing the browser
+05/19/2022 05:11:51 PM Opening firefox browser
+05/19/2022 05:11:52 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:11:52 PM *** Test Case: Choose your product
+05/19/2022 05:11:52 PM Taking a screenshot .\screenshots\image-051922-171152.png
+05/19/2022 05:11:52 PM Closing the browser
+05/19/2022 05:12:00 PM Opening firefox browser
+05/19/2022 05:12:01 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:12:01 PM ****Test case: Validating Login Page Title
+05/19/2022 05:12:01 PM Taking a screenshot .\screenshots\image-051922-171201.png
+05/19/2022 05:12:01 PM Closing the browser
+05/19/2022 05:12:09 PM Opening firefox browser
+05/19/2022 05:12:10 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:12:11 PM ****Test case: Validating Login Process
+05/19/2022 05:12:11 PM Login successfull
+05/19/2022 05:12:11 PM Taking a screenshot .\screenshots\image-051922-171211.png
+05/19/2022 05:12:11 PM Closing the browser
+05/19/2022 05:13:30 PM Opening firefox browser
+05/19/2022 05:13:30 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:13:30 PM *** Test Case: Go back to Products
+05/19/2022 05:13:31 PM Taking a screenshot .\screenshots\image-051922-171331.png
+05/19/2022 05:13:31 PM Closing the browser
+05/19/2022 05:13:40 PM Opening firefox browser
+05/19/2022 05:13:40 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:13:40 PM *** Test Case: Choose your product
+05/19/2022 05:13:41 PM Taking a screenshot .\screenshots\image-051922-171340.png
+05/19/2022 05:13:41 PM Closing the browser
+05/19/2022 05:13:49 PM Opening firefox browser
+05/19/2022 05:13:50 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:13:50 PM ****Test case: Validating Login Page Title
+05/19/2022 05:13:50 PM Taking a screenshot .\screenshots\image-051922-171350.png
+05/19/2022 05:13:50 PM Closing the browser
+05/19/2022 05:13:58 PM Opening firefox browser
+05/19/2022 05:13:59 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:14:00 PM ****Test case: Validating Login Process
+05/19/2022 05:14:00 PM Login successfull
+05/19/2022 05:14:00 PM Taking a screenshot .\screenshots\image-051922-171400.png
+05/19/2022 05:14:00 PM Closing the browser
+05/19/2022 05:21:54 PM Opening firefox browser
+05/19/2022 05:21:55 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:21:55 PM *** Test Case: Go back to Products
+05/19/2022 05:21:55 PM Taking a screenshot .\screenshots\image-051922-172155.png
+05/19/2022 05:21:55 PM Closing the browser
+05/19/2022 05:22:04 PM Opening firefox browser
+05/19/2022 05:22:05 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:22:05 PM *** Test Case: Choose your product
+05/19/2022 05:22:05 PM Taking a screenshot .\screenshots\image-051922-172205.png
+05/19/2022 05:22:05 PM Closing the browser
+05/19/2022 05:22:14 PM Opening firefox browser
+05/19/2022 05:22:14 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:22:14 PM ****Test case: Validating Login Page Title
+05/19/2022 05:22:15 PM Taking a screenshot .\screenshots\image-051922-172214.png
+05/19/2022 05:22:15 PM Closing the browser
+05/19/2022 05:22:23 PM Opening firefox browser
+05/19/2022 05:22:24 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:22:25 PM ****Test case: Validating Login Process
+05/19/2022 05:22:25 PM Login successfull
+05/19/2022 05:22:26 PM Taking a screenshot .\screenshots\image-051922-172225.png
+05/19/2022 05:22:26 PM Closing the browser
+05/19/2022 05:25:35 PM Opening firefox browser
+05/19/2022 05:25:36 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:25:36 PM *** Test Case: Go back to Products
+05/19/2022 05:25:37 PM Taking a screenshot .\screenshots\image-051922-172536.png
+05/19/2022 05:25:37 PM Closing the browser
+05/19/2022 05:25:45 PM Opening firefox browser
+05/19/2022 05:25:46 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:25:46 PM *** Test Case: Choose your product
+05/19/2022 05:25:46 PM Taking a screenshot .\screenshots\image-051922-172546.png
+05/19/2022 05:25:46 PM Closing the browser
+05/19/2022 05:25:55 PM Opening firefox browser
+05/19/2022 05:25:55 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:25:55 PM ****Test case: Validating Login Page Title
+05/19/2022 05:25:55 PM Taking a screenshot .\screenshots\image-051922-172555.png
+05/19/2022 05:25:55 PM Closing the browser
+05/19/2022 05:26:04 PM Opening firefox browser
+05/19/2022 05:26:04 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:26:06 PM ****Test case: Validating Login Process
+05/19/2022 05:26:06 PM Login successfull
+05/19/2022 05:26:07 PM Taking a screenshot .\screenshots\image-051922-172606.png
+05/19/2022 05:26:07 PM Closing the browser
+05/19/2022 05:54:12 PM Opening firefox browser
+05/19/2022 05:54:12 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:54:12 PM *** Test Case: Go back to Products
+05/19/2022 05:54:13 PM Taking a screenshot .\screenshots\image-051922-175413.png
+05/19/2022 05:54:13 PM Closing the browser
+05/19/2022 05:54:21 PM Opening firefox browser
+05/19/2022 05:54:22 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:54:22 PM *** Test Case: Choose your product
+05/19/2022 05:54:22 PM Taking a screenshot .\screenshots\image-051922-175422.png
+05/19/2022 05:54:22 PM Closing the browser
+05/19/2022 05:54:31 PM Opening firefox browser
+05/19/2022 05:54:31 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:54:31 PM ****Test case: Validating Login Page Title
+05/19/2022 05:54:31 PM Taking a screenshot .\screenshots\image-051922-175431.png
+05/19/2022 05:54:31 PM Closing the browser
+05/19/2022 05:54:40 PM Opening firefox browser
+05/19/2022 05:54:40 PM Navigating to https://www.saucedemo.com/
+05/19/2022 05:54:42 PM ****Test case: Validating Login Process
+05/19/2022 05:54:42 PM Login successfull
+05/19/2022 05:54:42 PM Taking a screenshot .\screenshots\image-051922-175442.png
+05/19/2022 05:54:42 PM Closing the browser

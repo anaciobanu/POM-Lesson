@@ -1,6 +1,6 @@
 from pages.LoginPage import LoginPage
 from utilities.ReadConfig import ReadConfig
-from utilities.logger import Logger
+from utilities.Logger import Logger
 
 class TestLogin:
 
@@ -27,7 +27,7 @@ class TestLogin:
         self.login_page.click_login()
         self.logger.info('****Test case: Validating Login Process')
 
-        if 'products' in page_source.lower():
+        if 'products' in self.driver.page_source.lower():
             self.logger.info('Login successfull')
             assert True
         else:

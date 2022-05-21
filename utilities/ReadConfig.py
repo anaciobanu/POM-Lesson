@@ -16,4 +16,16 @@ class ReadConfig:
     def get_valid_password():
         return config.get('common info', 'valid_password')
 
+    @staticmethod
+    def get_firstname():
+        return config.get('common info', 'firstname')  
+
+    @staticmethod
+    def get_lastname():
+        return config.get('common info', 'lastname')
+
+    @staticmethod
+    def get_zipcode():
+        return config.get('common info', 'zipcode')
+      
 

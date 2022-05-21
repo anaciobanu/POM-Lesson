@@ -13,7 +13,7 @@ class TestLogin:
     def test_login_page_title(self, setup):
         self.driver = setup
         page_title = self.driver.title
-        self.logger.info('****Test case: Validating Login Page Title')
+        self.logger.info('Test case: Validating Login Page Title')
         if page_title == 'Swag Labs':
             assert True
         else:
@@ -25,7 +25,7 @@ class TestLogin:
         self.login_page.set_username(self.valid_username)
         self.login_page.set_password(self.valid_password)
         self.login_page.click_login()
-        self.logger.info('****Test case: Validating Login Process')
+        self.logger.info('Test case: Validating Login Process')
 
         if 'products' in self.driver.page_source.lower():
             self.logger.info('Login successfull')

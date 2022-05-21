@@ -1,25 +1,42 @@
 from pages.LoginPage import LoginPage
-from pages.ProductListPage import ProductListPage
-from pages.ProductDetailsPage import ProductDetailsPage
+from utilities.ReadConfig import ReadConfig
 from utilities.Logger import Logger
+from pages.ProductDetailsPage import ProductDetailsPage
 
-class TestDetails:
 
-    # class attributes
+class TestProductDetails:
+    valid_username = ReadConfig.get_valid_username()
+    valid_password = ReadConfig.get_valid_password()
     logger = Logger.get_logger()
 
-    # class methods = test cases
-    def test_back_to_products(self, setup):
-        self.logger.info('*** Test Case: Go back to Products')
+    def test_product_details(self, setup):
         self.driver = setup
         self.login_page = LoginPage(self.driver)
-        self.login_page.valid_login()
-        self.product_list_page = ProductListPage(self.driver)
-        self.product_list_page.view_product_details()
+        self.login_page.set_username(self.valid_username)
+        self.login_page.set_password(self.valid_password)
+        self.login_page.click_login()
+        self.logger.info('Test Case: Check product details')
         self.product_details_page = ProductDetailsPage(self.driver)
-        self.product_details_page.back_to_products()
-        if 'products' in self.driver.page_source.lower():
+        self.product_details_page.product_details()
+        if 'back to products' in self.driver.page_source.lower():
             assert True
         else:
             assert False
- 
+
+    def test_add_to_cart(self, setup):
+        self.driver = setup
+        self.login_page = LoginPage(self.driver)
+        self.login_page.set_username(self.valid_username)
+        self.login_page.set_password(self.valid_password)
+        self.login_page.click_login()
+        self.product_details_page = ProductDetailsPage(self.driver)
+        self.product_details_page.product_details()
+        self.logger.info('Test Case: Add to Cart ')
+        self.product_details_page = ProductDetailsPage(self.driver)
+        self.product_details_page.add_to_cart()
+        if 'remove' in self.driver.page_source.lower():
+            assert True
+        else:
+            assert False
+
+    

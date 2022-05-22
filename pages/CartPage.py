@@ -7,6 +7,7 @@ class CartPage:
     remove_products_id = 'remove-sauce-labs-backpack'
     empty_shopping_cart_css='.shopping_cart_link'
     continue_shopping_id = 'continue-shopping'
+    button_checkout_id = 'checkout'
 
     def __init__(self, driver):
         self.driver = driver
@@ -19,6 +20,9 @@ class CartPage:
         return self.driver.find_element(By.CSS_SELECTOR, self.empty_shopping_cart_css).text != '1'     
         
     def click_continue_shopping(self):   
-        self.driver.find_element(By.ID, self.continue_shopping_id).click() 
+        self.driver.find_element(By.ID, self.continue_shopping_id).click()
+    
+    def click_checkout_button(self):
+        self.driver.find_element(By.ID, self.button_checkout_id).click()
 
 

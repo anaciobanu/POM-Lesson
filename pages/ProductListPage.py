@@ -17,5 +17,8 @@ class ProductListPage:
         return self.driver.find_element(By.CSS_SELECTOR, self.shopping_cart_symbol_css).text == '1'
         
     def click_remove(self):   
-        self.driver.find_element(By.ID, self.button_remove_id).click() 
+        self.driver.find_element(By.ID, self.button_remove_id).click()
+    
+    def click_shopping_cart(self):
+        self.driver.find_element(By.CSS_SELECTOR, self.shopping_cart_symbol_css).click()
    

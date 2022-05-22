@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report1.html</h1>
-    <p>Report generated on 21-May-2022 at 14:48:07 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 22-May-2022 at 14:00:14 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -265,8 +265,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Ana</td></tr></table>
     <h2>Summary</h2>
-    <p>10 tests ran in 120.92 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">10 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>11 tests ran in 133.87 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">11 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -280,112 +280,122 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">tests/Test_ProductDetails.py::TestProductDetails::test_product_details</td>
-          <td class="col-duration">11.02</td>
+          <td class="col-name">tests/test_Cart.py::TestCart::test_remove_item_during_checkout</td>
+          <td class="col-duration">10.92</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
-INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:Test_ProductDetails.py:18 Test Case: Check product details<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052122-144615.png
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Cart.py:27 Test Case: Remove item during checkout<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-135810.png
 INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">tests/Test_ProductDetails.py::TestProductDetails::test_add_to_cart</td>
-          <td class="col-duration">11.10</td>
+          <td class="col-name">tests/test_Cart.py::TestCart::test_checkout</td>
+          <td class="col-duration">10.78</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
-INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:Test_ProductDetails.py:34 Test Case: Add to Cart<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052122-144626.png
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Cart.py:42 Test Case: Checkout<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-135820.png
 INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">tests/Test_ProductList.py::TestProductList::test_add_to_cart</td>
-          <td class="col-duration">12.45</td>
+          <td class="col-name">tests/test_Checkout.py::Test_Checkout::test_complete_checkout_info_and_continue</td>
+          <td class="col-duration">12.42</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
-INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:Test_ProductList.py:17 Test Case: Add to Cart<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052122-144637.png
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Checkout.py:35 Test Case: Enter Customer information and Continue<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-135832.png
 INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">tests/Test_ProductList.py::TestProductList::test_product_added</td>
-          <td class="col-duration">13.46</td>
+          <td class="col-name">tests/test_Checkout.py::Test_Checkout::test_cancel_checkout</td>
+          <td class="col-duration">13.06</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
-INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:Test_ProductList.py:33 Test Case: Product added to cart<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052122-144651.png
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Checkout.py:57 Test Case:Cancel checkout<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-135845.png
 INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">tests/test_Cart.py::TestCart::test_click_shopping_cart</td>
-          <td class="col-duration">12.28</td>
+          <td class="col-name">tests/test_Checkout.py::Test_Checkout::test_finish_checkout</td>
+          <td class="col-duration">12.87</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
-INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Cart.py:20 Test Case: Go to Cart<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052122-144704.png
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Checkout.py:77 Test Case:Finish checkout<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-135858.png
 INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">tests/test_Cart.py::TestCart::test_click_remove</td>
-          <td class="col-duration">12.22</td>
+          <td class="col-name">tests/test_ProductDetails.py::TestProductDetails::test_product_details</td>
+          <td class="col-duration">12.51</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
-INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Cart.py:38 Test Case: Remove from shopping cart<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052122-144716.png
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_ProductDetails.py:16 Test Case: Check product details<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-135909.png
 INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">tests/test_Checkout.py::Test_Checkout::test_click_checkout</td>
-          <td class="col-duration">12.91</td>
+          <td class="col-name">tests/test_ProductDetails.py::TestProductDetails::test_add_to_cart_from_details_page</td>
+          <td class="col-duration">12.40</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
-INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Checkout.py:27 Test Case: Go to Checkout<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052122-144729.png
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_ProductDetails.py:30 Test Case: Add to Cart<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-135922.png
 INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">tests/test_Checkout.py::Test_Checkout::test_info_input</td>
-          <td class="col-duration">12.75</td>
+          <td class="col-name">tests/test_ProductList.py::TestProductList::test_add_to_cart</td>
+          <td class="col-duration">12.47</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
-INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Checkout.py:47 Test Case: Customer information
-INFO     root:test_Checkout.py:51 Test Case: Checking out<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052122-144742.png
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_ProductList.py:18 Test Case: Add to Cart<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-135935.png
+INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">tests/test_ProductList.py::TestProductList::test_product_added</td>
+          <td class="col-duration">12.64</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_ProductList.py:32 Test Case: Product added to cart<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-135947.png
 INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">tests/test_login.py::TestLogin::test_login_page_title</td>
-          <td class="col-duration">10.73</td>
+          <td class="col-duration">11.13</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
-INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:16 Test case: Validating Login Page Title<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052122-144752.png
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:16 Test case: Validating Login Page Title<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-135959.png
 INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">tests/test_login.py::TestLogin::test_login</td>
-          <td class="col-duration">11.71</td>
+          <td class="col-duration">12.30</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log setup------------------------------- <br/>INFO     root:conftest.py:14 Opening firefox browser
-INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:28 Test case: Validating Login Process
-INFO     root:test_login.py:31 Login successfull<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052122-144803.png
+INFO     root:conftest.py:17 Navigating to https://www.saucedemo.com/<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:29 Test case: Validating Login Process
+INFO     root:test_login.py:32 Login successfull<br/> -----------------------------Captured log teardown------------------------------ <br/>INFO     root:conftest.py:23 Taking a screenshot .\screenshots\image-052222-140011.png
 INFO     root:conftest.py:24 Closing the browser<br/></div></td></tr></tbody></table></body></html>

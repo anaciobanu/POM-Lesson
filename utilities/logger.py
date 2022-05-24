@@ -1,4 +1,5 @@
 import logging
+import sqlite3
 
 class Logger:
     @staticmethod
@@ -10,6 +11,8 @@ class Logger:
             format='%(asctime)s %(message)s', 
             datefmt='%m/%d/%Y %I:%M:%S %p')
         return logging.getLogger()
+
+        
     
     
 

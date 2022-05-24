@@ -1,6 +1,6 @@
 from pages.LoginPage import LoginPage
 from utilities.ReadConfig import ReadConfig
-from utilities.logger import Logger
+from utilities.Logger import Logger
 
 class TestLogin:
 

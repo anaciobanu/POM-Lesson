@@ -28,4 +28,4 @@ class ReadConfig:
     def get_zipcode():
         return config.get('common info', 'zipcode')
       
-
+     

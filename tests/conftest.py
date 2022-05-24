@@ -2,7 +2,7 @@ import pytest
 from selenium import webdriver
 from datetime import datetime
 from utilities.ReadConfig import ReadConfig
-from utilities.Logger import Logger
+from utilities.logger import Logger
 import os 
 
 logger = Logger.get_logger()

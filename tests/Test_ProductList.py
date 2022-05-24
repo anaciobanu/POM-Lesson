@@ -1,6 +1,6 @@
 from pages.LoginPage import LoginPage
 from utilities.ReadConfig import ReadConfig
-from utilities.Logger import Logger
+from utilities.logger import Logger
 from pages.ProductListPage import ProductListPage
 
 class TestProductList:
